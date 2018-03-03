@@ -54,3 +54,6 @@ docs/_build/
 
 # jupyter notebook
 .ipynb_checkpoints
+
+# tags file
+.tags
